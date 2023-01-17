@@ -86,8 +86,8 @@ ingress:
 
 backstage:
   image:
-    registry: "erangaeb"
-    repository: "waula-backstage"
+    registry: "deveshharness2306"
+    repository: "test-account-id-1"
     tag: 23
     ## Specify a imagePullPolicy
     ## Defaults to 'Always' if image tag is 'latest', else set to 'IfNotPresent'
