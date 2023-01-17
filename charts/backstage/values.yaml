@@ -88,7 +88,7 @@ backstage:
   image:
     registry: "deveshharness2306"
     repository: "test-account-id-1"
-    tag: 23
+    tag: 24
     ## Specify a imagePullPolicy
     ## Defaults to 'Always' if image tag is 'latest', else set to 'IfNotPresent'
     ## ref: https://kubernetes.io/docs/user-guide/images/#pre-pulling-images
